@@ -99,6 +99,7 @@ export default {
     msg: String,
   },
 };
+var asjkj;
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
