@@ -7,6 +7,11 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
