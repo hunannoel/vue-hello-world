@@ -14,7 +14,7 @@
     <ul>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel"
+          href="https://github.cli-plugin-babel"
           target="_blank"
           rel="noopener"
         >
@@ -23,7 +23,7 @@
       </li>
       <li>
         <a
-          href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint"
+          href="https://ge/dev/packages/%40vue/cli-plugin-eslint"
           target="_blank"
           rel="noopener"
         >
